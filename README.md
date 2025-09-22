@@ -5,7 +5,7 @@ Repo này chứa các bài làm nhóm
 Lab 3: Phân tích khám phá về bệnh đái tháo đường**.  
 Mục tiêu chính là tìm hiểu cơ sở y khoa về bệnh tiểu đường, đọc và tóm tắt các paper liên quan, đồng thời thực hiện **Exploratory Data Analysis (EDA)** trên bộ dữ liệu **Pima Indians Diabetes**.
 
-## hành viên & Nhiệm vụ
+## Thành viên & Nhiệm vụ
 - **Nhóm trưởng: Bùi Minh Huy** 
   - Tạo và quản lý repo nhóm  
   - Viết, tổng hợp báo cáo cuối (Word)  
@@ -31,7 +31,7 @@ Mục tiêu chính là tìm hiểu cơ sở y khoa về bệnh tiểu đường,
 4. Nhóm trưởng review và merge.  
 
 ---
-## 📅 Tiến độ
+## Tiến độ
 - **22/09:** Tạo repo, phân công nhiệm vụ.  
 - **23/09:** Hoàn thành tóm tắt paper (A) + bản nháp EDA (B).  
 - **24/09:** Hoàn thiện slide (C) + báo cáo Word (nhóm trưởng).  
