@@ -15,11 +15,11 @@ Mục tiêu chính là tìm hiểu cơ sở y khoa về bệnh tiểu đường,
   - Đọc 3 paper (NDDG 1979, ADAP NN 1988, WHO 1999)  
   - Viết tóm tắt trong file `research_summary.md`  
 
-- **Thành viên B: Hoàng Minh Quang**  
+- **Thành viên: Hoàng Minh Quang**  
   - Thực hiện Exploratory Data Analysis (EDA) trên dataset  
   - Tạo thống kê, biểu đồ, nhận xét trong `eda.ipynb`  
 
-- **Thành viên C: Nguyễn Trần Công Hậu**  
+- **Thành viên: Nguyễn Trần Công Hậu**  
   - Chuẩn bị slide thuyết trình (`slide.pptx`)  
   - Tóm tắt kết quả chính từ paper và EDA  
 
