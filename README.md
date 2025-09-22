@@ -2,7 +2,7 @@
 
 ## Giới thiệu
 Repo này chứa các bài làm nhóm 
-Lab 3: Phân tích khám phá về bệnh đái tháo đường**.  
+**Lab 3: Phân tích khám phá về bệnh đái tháo đường**.  
 Mục tiêu chính là tìm hiểu cơ sở y khoa về bệnh tiểu đường, đọc và tóm tắt các paper liên quan, đồng thời thực hiện **Exploratory Data Analysis (EDA)** trên bộ dữ liệu **Pima Indians Diabetes**.
 
 ## Thành viên & Nhiệm vụ
