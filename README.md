@@ -7,17 +7,17 @@ Mục tiêu chính là tìm hiểu cơ sở y khoa về bệnh tiểu đường,
 
 ## Thành viên & Nhiệm vụ
 - **Nhóm trưởng: Bùi Minh Huy** 
-  - Tạo và quản lý repo nhóm  
+  - Tạo và quản lý repo nhóm
+  - Thực hiện Exploratory Data Analysis (EDA) trên dataset
   - Viết, tổng hợp báo cáo cuối (Word)  
   - Review và merge pull request  
 
 - **Thành viên: Phan Huy Hoàng** 
   - Đọc 3 paper (NDDG 1979, ADAP NN 1988, WHO 1999)  
-  - Viết tóm tắt trong file `research_summary.md`  
-
+  - Từ đó xác định ý nghĩa bài toán: Input / Output / Và mục tiêu
 - **Thành viên: Hoàng Minh Quang**  
   - Thực hiện Exploratory Data Analysis (EDA) trên dataset  
-  - Tạo thống kê, biểu đồ, nhận xét trong `eda.ipynb`  
+  - Tạo thống kê, biểu đồ, nhận xét trong `EDA-Benh-Tieu-Duong.ipynb`  
 
 - **Thành viên: Nguyễn Trần Công Hậu**  
   - Chuẩn bị slide thuyết trình (`slide.pptx`)  
@@ -25,7 +25,7 @@ Mục tiêu chính là tìm hiểu cơ sở y khoa về bệnh tiểu đường,
 
 ---
 ## Quy trình làm việc
-1. Mỗi thành viên tạo **branch riêng** (`research`, `eda`, `slide`).  
+1. Mỗi thành viên tạo **branch riêng** (`hau`, `hoang`, `DA`).  
 2. Commit và push file công việc của mình.  
 3. Tạo **Pull Request** để merge vào `main`.  
 4. Nhóm trưởng review và merge.  
