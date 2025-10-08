@@ -1,8 +1,8 @@
 # DA_project
 
 ## Giới thiệu
-Repo này chứa các bài tập làm nhóm 
-Mục tiêu chính là tìm hiểu các kiến thức về phân tích dữ liệu (EDA, Data Preprocessing, Machine Learning,..) từ đó áp dụng vào các bài thực hành để hiểu một cách rõ ràng và chính xác hơn.
+- Repo này chứa các bài tập làm nhóm 
+- Mục tiêu chính là tìm hiểu các kiến thức về phân tích dữ liệu (EDA, Data Preprocessing, Machine Learning,..) từ đó áp dụng vào các bài thực hành để hiểu một cách rõ ràng và chính xác hơn.
 
 ## Thành viên
 - **Nhóm trưởng: Bùi Minh Huy - 3122410138** 
