@@ -17,5 +17,5 @@
 4. Nhóm trưởng review và merge.  
 
 ---
-HI VỌNG MỌI THỨ SUÔN SẺ VÀ ĐƯỢC A+ MÔN PHÂN TÍCH DỮ LIỆU CỦA THẦY !!!
+NHÓM HI VỌNG CÓ THỂ ĐƯỢC A+ MÔN PHÂN TÍCH DỮ LIỆU CỦA THẦY !!!
 ---
